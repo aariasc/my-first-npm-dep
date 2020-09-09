@@ -1,0 +1,19 @@
+{
+  "name": "my-first-npm-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aariasc/my-first-npm-dep"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aariasc/my-first-npm-dep/issues"
+  },
+  "homepage": "https://github.com/aariasc/my-first-npm-dep#readme"
+}
