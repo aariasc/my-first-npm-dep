@@ -5,6 +5,7 @@ export interface User {
   email: string;
   favoriteColor: string;
   foobar?: string;
+  blahblah: number;
 }
 
 export interface Libro {
