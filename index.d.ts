@@ -3,6 +3,7 @@ export interface User {
   lastName: string;
   age: number;
   email: string;
+  favoriteColor: string;
 }
 
 export interface Libro {
